@@ -1,13 +1,13 @@
 // variables
 
-let a; //declarar
-let b = 'b'; //declaramos y asignamos
+var a; //declarar
+var b = 'b'; //declaramos y asignamos
 b = 'bb'; //reasignacion
-let a = 'aa'; // redecalracion
+var a = 'aa'; // redecalracion
 
 
 //Global Scope
-let fruit = 'Apple' //Global
+var fruit = 'Apple' //Global
 
 function bestFruit() {
     console.log(fruit);
