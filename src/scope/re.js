@@ -16,7 +16,7 @@ console.log(secondName);
 let fruit = 'Apple'; // decalrar y asignar
 fruit = 'Kiwi'; // reasignar
 console.log(fruit);
-let fruit = 'Banana'; // no es posible redeblarar con let
+//let fruit = 'Banana'; // no es posible redeblarar con let
 
 
 // Const
